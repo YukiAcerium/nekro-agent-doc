@@ -149,9 +149,7 @@
   padding: 16px 20px;
 }
 
-/* --- 6. 文档图片 --- */
-
-/* --- 7. 其他组件 --- */
+/* --- 6. 其他组件 --- */
 /* 代码复制按钮 */
 .vp-copy-code-button:hover {
   background-color: var(--vp-c-brand-1) !important;
